@@ -1,0 +1,8 @@
+# https://git-scm.com/docs/gitignore
+
+# Ignore everything...
+*
+.*
+# ... unless white-listed in explicit fashion:
+!.bash_aliases
+!.gitignore
